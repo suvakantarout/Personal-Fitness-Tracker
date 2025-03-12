@@ -9,6 +9,7 @@ A simple and effective fitness tracking application that helps you predict the c
 - View insightful analytics and reports.
 - User-friendly interface for seamless tracking.
 
+## Technologies used 🧑‍💻
 
 - **Programming Language:** Python 🐍  
 
