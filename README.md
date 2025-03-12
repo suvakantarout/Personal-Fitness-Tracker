@@ -9,6 +9,19 @@ A simple and effective fitness tracking application that helps you predict the c
 - View insightful analytics and reports.
 - User-friendly interface for seamless tracking.
 
+
+- **Programming Language:** Python 🐍  
+
+- **Framework:**  
+  - Streamlit 🎨  
+
+- **Libraries:**  
+  - NumPy 🔢 (Numerical computations)  
+  - Pandas 📝 (Data manipulation & analysis)  
+  - Matplotlib 📊 (Data visualization)  
+  - Seaborn 📈 (Statistical data visualization)  
+  - Scikit-learn 🤖 (Machine learning) 
+
 ## Installation 🚀  
 1. Clone the repository:  
    ```bash
