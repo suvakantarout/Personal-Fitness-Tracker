@@ -31,4 +31,6 @@ A simple and effective fitness tracking application that helps you predict the c
 ## Contribution 🤝
 Contributions are welcome! Feel free to submit issues or pull requests.
 
+
+
 Made with ❤️ by Suvakanta Rout
