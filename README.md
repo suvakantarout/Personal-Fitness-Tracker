@@ -13,3 +13,7 @@ A simple and effective fitness tracking application that helps you predict the c
 1. Clone the repository:  
    ```bash
    git clone https://github.com/suvakantarout/Personal-fittness-tracker.git
+
+## Contribution 🤝
+
+Contributions are welcome! Feel free to submit issues or pull requests.
