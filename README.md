@@ -9,11 +9,24 @@ A simple and effective fitness tracking application that helps you predict the c
 - View insightful analytics and reports.
 - User-friendly interface for seamless tracking.
 
+## Technologies used 🧑‍💻
+
+- **Programming Language:** Python 🐍  
+
+- **Framework:**  
+  - Streamlit 🎨  
+
+- **Libraries:**  
+  - NumPy 🔢 (Numerical computations)  
+  - Pandas 📝 (Data manipulation & analysis)  
+  - Matplotlib 📊 (Data visualization)  
+  - Seaborn 📈 (Statistical data visualization)  
+  - Scikit-learn 🤖 (Machine learning) 
+
 ## Installation 🚀  
 1. Clone the repository:  
    ```bash
    git clone https://github.com/suvakantarout/Personal-fittness-tracker.git
 
-## Contribution 🤝
 
-Contributions are welcome! Feel free to submit issues or pull requests.
+Made with ❤️ by Suvakanta Rout
